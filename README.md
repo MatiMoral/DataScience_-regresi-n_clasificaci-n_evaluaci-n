@@ -1,6 +1,6 @@
 # DataScience_-regresi-n_clasificaci-n_evaluaci-n
 
-#Modelo de clasificación con evaluación de resultados
+Modelo de clasificación con evaluación de resultados
 
 En este proyecto, trabajaremos con un dataset que contiene información sobre personas. La idea es predecir si la persona tiene un salario anual mayor a 50K dólares.
 
